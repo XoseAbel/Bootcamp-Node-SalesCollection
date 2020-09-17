@@ -1,3 +1,5 @@
+**Javascript, Node, Express, MongoDB**
+
 api_sales
 Base de datos: "sample_suplies"
 Colección: "sales"
